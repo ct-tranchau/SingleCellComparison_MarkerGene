@@ -1,6 +1,8 @@
 ---
 title: "Common Marker genes among three detection methods"
-output: html_document
+output:
+  html_document:
+    df_print: paged
 date: '2022-11-18'
 ---
 
